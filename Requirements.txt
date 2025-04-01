@@ -1,6 +1,6 @@
 pandas 
 streamlit
-matplotlib
+matplotlib.pyplot
 pickle
 random
 sqlalchemy
