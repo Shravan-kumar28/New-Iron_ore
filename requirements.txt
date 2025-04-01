@@ -2,6 +2,6 @@ pandas
 streamlit
 matplotlib==3.7.1
 sqlalchemy
-numpy
+numpy<2
 tensorflow
 pymysql
