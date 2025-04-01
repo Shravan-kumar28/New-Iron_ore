@@ -1,7 +1,6 @@
 pandas 
 streamlit
-matplotlib
-pickle
+matplotlib==3.7.1
 random
 sqlalchemy
 numpy
