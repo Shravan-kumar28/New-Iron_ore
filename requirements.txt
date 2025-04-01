@@ -1,0 +1,9 @@
+pandas 
+streamlit
+matplotlib
+pickle
+random
+sqlalchemy
+numpy
+tensorflow
+pymysql
